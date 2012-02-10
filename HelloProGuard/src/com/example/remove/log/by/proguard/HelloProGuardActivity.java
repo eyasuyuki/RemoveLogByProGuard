@@ -1,4 +1,6 @@
-package com.example.hello.proguard;
+package com.example.remove.log.by.proguard;
+
+import com.example.hello.proguard.R;
 
 import android.app.Activity;
 import android.os.Bundle;
